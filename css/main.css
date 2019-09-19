@@ -1,8 +1,8 @@
 .site-header {
-    background-color: #ffd9b3;
-    color: rgb(129, 129, 194);
+    background-color: #e83f0c9e;
+    color: #ece6e3;
     height: 100vh;
-    font-family: 'Courier New';
+    font-family: cursive;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -14,11 +14,11 @@
     height: 200px;
     width: 200px;
     align-self: center;
+    box-shadow: #000000a6 4px 5px 9px;
 }
 
 .site-header-content{
-    margin: 10px;
-    align-self: center;   
+    margin: 10px;  
 }
 body{
     margin: 0;
