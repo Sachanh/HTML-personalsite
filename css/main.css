@@ -2,7 +2,7 @@
     background-color: #e83f0c9e;
     color: #ece6e3;
     height: 100vh;
-    font-family: cursive;
+    font-family: 'Courier New', Courier, monospace;
     display: flex;
     flex-direction: column;
     justify-content: center;
